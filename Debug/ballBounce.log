@@ -1,0 +1,8 @@
+﻿  main.c
+d:\youtube\ballbounce\main.c(30): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\youtube\ballbounce\main.c(39): warning C4305: '=': truncation from 'double' to 'float'
+d:\youtube\ballbounce\main.c(61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\youtube\ballbounce\main.c(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\youtube\ballbounce\main.c(93): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\youtube\ballbounce\main.c(94): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ballBounce.vcxproj -> D:\Youtube\ballBounce\Debug\ballBounce.exe
